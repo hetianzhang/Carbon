@@ -66,7 +66,7 @@ Before starting, you need to have [Python](https://www.python.org/) installed.
 
 ```bash
 # Clone this project
-$ git clone https://github.com/0sir1ss/Carbon
+$ git clone https://github.com/hetianzhang/Carbon
 
 # Access
 $ cd Carbon
